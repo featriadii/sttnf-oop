@@ -1,5 +1,3 @@
-package belajaroverloading;
-
 public class Belajaroverloading {
 
     public static void main(String[] args) {

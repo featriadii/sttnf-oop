@@ -1,5 +1,3 @@
-package belajaroverloading;
-
 public class ContohOverloading {
     public void jumlah(int a, int b){
         System.out.println("Jumlah 2 angka = " + (a+b));
